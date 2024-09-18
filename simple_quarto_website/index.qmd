@@ -1,0 +1,79 @@
+---
+title: "Simple Quarto Website"
+bibliography: reference.bib
+---
+
+## Introduction
+The topic of this website is a simple tour of the places I have been in Georgetown
+
+## Food
+The best places I have visted are Villa Yara, Yellow, Falafel Inc., George's, and The Tombs.
+
+![Food in Yellow](images/image_2.jpg){fig-align="center" height=200}
+
+
+
+## Hangouts
+Blue Bottle Caffe, Georgetown University, and teh Waterfront are some of my favorite places to hangout and chill.
+
+![Georgetown Campus](images/image_1.jpeg){fig-align="center" width=300}
+
+Photo taken from Georgetown main website
+
+
+:::: {.columns}
+
+::: {.column width="50%"}
+### Activities in Georgetown
+Soccer
+:::
+
+::: {.column width="50%"}
+### Where to Go
+Kehoe Field
+:::
+
+::::
+
+### In Summary
+- Activities
+- Sports
+- Nightlife
+
+### Registered for Events
+
+| First Name | Last Name |  Year |
+|------------|-----------|-------|
+|   Ihsan    |  Alaeddin | First |
+
+### Formula for amount of fun you will have in a week
+$y = mx + b$ 
+
+---
+toc: true
+---
+
+### Random Formula
+$$
+\Pr(D \mid T^-)\
+$$
+
+### What is Yellow [^1]
+
+[^1]: Yellow is a Middle Eastern Style Caffe in Wisconsin Avenue.
+
+### One of My Favorite Quotes
+> "We Have On This Earth What Makes Life Worth Living" - Mahmoud Darwish
+
+
+### A Tour of Georgetown
+{{< video https://youtube.com/watch?v=lfpf-wxW-cM >}}
+
+```{mermaid}
+flowchart LR
+  A[Washington D.C] --> B(Georgetown)
+  B --> C[Georgetown University]
+  B --> D[The Neighbourhood]
+```
+
+First citation [@schmidhuber2022annotatedhistorymodernai].

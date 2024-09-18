@@ -1,0 +1,79 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Simple Quarto Website",
+    "section": "",
+    "text": "The topic of this website is a simple tour of the places I have been in Georgetown"
+  },
+  {
+    "objectID": "index.html#introduction",
+    "href": "index.html#introduction",
+    "title": "Simple Quarto Website",
+    "section": "",
+    "text": "The topic of this website is a simple tour of the places I have been in Georgetown"
+  },
+  {
+    "objectID": "index.html#food",
+    "href": "index.html#food",
+    "title": "Simple Quarto Website",
+    "section": "Food",
+    "text": "Food\nThe best places I have visted are Villa Yara, Yellow, Falafel Inc., George’s, and The Tombs.\n\n\n\nFood in Yellow"
+  },
+  {
+    "objectID": "index.html#hangouts",
+    "href": "index.html#hangouts",
+    "title": "Simple Quarto Website",
+    "section": "Hangouts",
+    "text": "Hangouts\nBlue Bottle Caffe, Georgetown University, and teh Waterfront are some of my favorite places to hangout and chill.\n\n\n\nGeorgetown Campus\n\n\nPhoto taken from Georgetown main website\n\n\n\nActivities in Georgetown\nSoccer\n\n\n\nWhere to Go\nKehoe Field\n\n\n\n\nIn Summary\n\nActivities\nSports\nNightlife\n\n\n\nRegistered for Events\n\n\n\nFirst Name\nLast Name\nYear\n\n\n\n\nIhsan\nAlaeddin\nFirst\n\n\n\n\n\nFormula for amount of fun you will have in a week\n\\(y = mx + b\\)\n\n\nRandom Formula\n\\[\n\\Pr(D \\mid T^-)\\\n\\]\n\n\nWhat is Yellow 1\n\n\nOne of My Favorite Quotes\n\n“We Have On This Earth What Makes Life Worth Living” - Mahmoud Darwish\n\n\n\nA Tour of Georgetown\n\n\n\n\n\n\nflowchart LR\n  A[Washington D.C] --&gt; B(Georgetown)\n  B --&gt; C[Georgetown University]\n  B --&gt; D[The Neighbourhood]\n\n\n\n\n\n\nFirst citation (Schmidhuber 2022)."
+  },
+  {
+    "objectID": "index.html#footnotes",
+    "href": "index.html#footnotes",
+    "title": "Simple Quarto Website",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nYellow is a Middle Eastern Style Caffe in Wisconsin Avenue.↩︎"
+  },
+  {
+    "objectID": "slides/slides.html#background",
+    "href": "slides/slides.html#background",
+    "title": "About Me",
+    "section": "Background",
+    "text": "Background\n\nI was born in San Francisco, California\nMoved to Palestine when I was 6 months old\nRaised in Ramallah, Palestine\nCame to America for Undergrad\nMoved to America for Grad"
+  },
+  {
+    "objectID": "slides/slides.html#my-hobbies",
+    "href": "slides/slides.html#my-hobbies",
+    "title": "About Me",
+    "section": "My Hobbies",
+    "text": "My Hobbies\n\nSoccer\nSocializing\nHiking"
+  },
+  {
+    "objectID": "slides/slides.html#career-interests",
+    "href": "slides/slides.html#career-interests",
+    "title": "About Me",
+    "section": "Career Interests",
+    "text": "Career Interests\n\nAI Engineer\nFinance\nData Scientist\nLearnt a lot about AI from the article “Annotated History of Modern AI and Deep Learning” (Schmidhuber 2022)."
+  },
+  {
+    "objectID": "slides/slides.html#visualisation-of-my-current-interests",
+    "href": "slides/slides.html#visualisation-of-my-current-interests",
+    "title": "About Me",
+    "section": "Visualisation of my Current Interests",
+    "text": "Visualisation of my Current Interests\n\n\nCode\nimport matplotlib.pyplot as plt\nimport numpy as np\n\ny = np.array([50, 10, 20, 20])\nmylabels = [\"Soccer\", \"Hiking\", \"Data Science\", \"AI\"]\n\nplt.pie(y, labels = mylabels)\nplt.title(\"My Current Interests\")\nplt.show()"
+  },
+  {
+    "objectID": "slides/slides.html#references",
+    "href": "slides/slides.html#references",
+    "title": "About Me",
+    "section": "References",
+    "text": "References\n\n\n\n\n\n\n\n\nSchmidhuber, Juergen. 2022. “Annotated History of Modern AI and Deep Learning.” https://arxiv.org/abs/2212.11279."
+  }
+]
